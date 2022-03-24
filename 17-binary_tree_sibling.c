@@ -2,7 +2,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_is_leaf - delete each node
+ * binary_tree_sibling - delete each node
  * @node: pointer to node
  * Return: pointer to the new node
  */
